@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+.desc-span {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.description {
+    color: black;
+    font-size: 13px;
+    font-family: 'Righteous', cursive;
+}
+
+.icon-color-1 {
+    color: blueviolet;
+}
+
+.icon-color-2 {
+    color: rgb(229, 167, 54);
+}
+
+.icon-color-3 {
+    color: rgb(86, 108, 169);
+}
